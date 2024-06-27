@@ -1,12 +1,12 @@
 {
   "todos": [
     {
-      "name": "Lâu nhà ",
-      "id": 2
+      "name": "Quét nhà",
+      "id": 1
     },
     {
-      "name": "đi học ",
-      "id": 3
+      "name": "Lâu nhà ",
+      "id": 2
     }
   ]
 }
